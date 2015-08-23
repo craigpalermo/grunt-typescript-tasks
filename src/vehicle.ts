@@ -1,8 +1,8 @@
-/**
+/* 
  * This file is an example of classes and inheritance in TypeScript.
  * Car and Truck have shared properties because they both extend
- * the class Vehicle.
- * /
+ * the class Vehicle. 
+ */
 
 class Vehicle {
   constructor (
